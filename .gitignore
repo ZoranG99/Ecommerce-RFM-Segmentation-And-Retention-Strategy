@@ -1,0 +1,5 @@
+# Ignore the specific large dataset
+data/raw/online_retail_II.csv
+
+# Ignore temporary Excel files (created automatically while you work)
+~$*.xlsx
