@@ -189,6 +189,7 @@ Based on the data analysis, I recommend the following actions to improve retenti
 ├── E-Commerce_Customer_Segmentation_Report.xlsx  # The complete Excel project file
 ├── .gitignore                                    # Specifies files to exclude (large datasets)
 └── README.md                                     # Project documentation
+```
 
 ## ⚙️ How to Run This Project
 
