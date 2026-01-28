@@ -217,6 +217,6 @@ Since this project relies on a local CSV file, you need to update the data conne
 
 **Zoran Gusic**
 * [LinkedIn](https://www.linkedin.com/in/zoran-gusic-28910a242/)
-* [Upwork](https://www.upwork.com/freelancers/~your-id)
+* [Upwork](https://www.upwork.com/freelancers/~01ebd850cecc962829)
 * [GitHub](https://github.com/ZoranG99)
 
